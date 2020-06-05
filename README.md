@@ -1,2 +1,1 @@
-# LeagueofLegends
-General Assembly Capstone Project
+# Project_6_capstone
