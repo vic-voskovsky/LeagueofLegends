@@ -19,38 +19,45 @@ version 1.0 (6.8.2020)
 
 - [Challenges & Limitations](#Challenges-&-Limitations "Challenges")
 
-- [Conclusions & Recommendation](#Conclusions-&-Limitations "EDA")
+- [Conclusions & Recommendation](#Conclusions-&-Recommendation "Recommendations")
 
 - [Whats next?](#Whats-Next? "next")
 
 ### Introduction
 
----
+- What is League of Legends? 
+- How is it played?
+- How do you win? 
 
 ### Problem Statement
 
----
+- Setting the scene and state some assumptions for the project.  
+
+### Data Collection
+
+- Data Research & Findings 
+- Data Collection. 
 
 ### EDA
 
----
-
-### Data Cleaning
-
----
-
-### Feature Engineering 
-
----
+- Data Processing.
+- Data Manipulation before modeling. 
 
 ### Modeling Results
 
----
+- Model Insights.
+- Engineered Columns. 
 
-### Key Findings
+### Key Observations
 
----
+- Model score. 
+- Model prediction.
+- Future plans.
 
-### Whats Next?
+### Challenges & Limitations
 
----
+- Granularity in data. 
+
+### Conclusions-&-Recommendation
+
+- Final ranking numbers & recommendations. 
