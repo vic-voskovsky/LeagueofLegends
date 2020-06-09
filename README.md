@@ -2,9 +2,7 @@
 
 ---
 ## Project Author:
-
 Vic Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
-
 ---
 ## Executive Summary
 
