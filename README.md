@@ -1,7 +1,6 @@
 # League of Legends: Building a League of Legends ranking algorithm for Worlds 2020. 🏆
 version 1.0 (6.8.2020)
 ---
-## Project Author: 
   - Vic Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
 ---
 ## Executive Summary
