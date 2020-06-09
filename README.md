@@ -21,6 +21,8 @@ version 1.0 (6.8.2020)
 
 - [Conclusions & Recommendation](#Conclusions-&-Limitations "EDA")
 
+- [Whats next?](#Whats-Next? "next")
+
 ### Introduction
 
 ---
