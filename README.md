@@ -3,25 +3,25 @@ version 1.0 (6.8.2020)
 ### Author:
   - Vic Voskovsy - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
 ---
-## Executive Summary
+## Table of Contents
 
-- [Mission Statement](#Mission-Statement "Intro")
+- [Introduction](#Introduction "Intro")
 
 - [Problem Statement](#Problem-Statement "PS")
 
-- [Data Information](#Data-Information "Data")
+- [Data Collection](#Data-Collection "Data")
 
-- [Data Cleaning](#Data-Cleaning "EDA")
+- [EDA](#EDA "EDA")
 
-- [Feature Engineering](#Feature-Engineering "EDA")
+- [Modeling Results](#Modeling-Results "Modeling")
 
-- [Modeling Results](#Modeling-Results "Models")
+- [Key Observations](#Key-Observations "Observations")
 
-- [Key Findings](#Key-Findings "Go to Key-Findings")
+- [Challenges & Limitations](#Challenges-&-Limitations "Challenges")
 
-- [Whats Next?](#Whats-Next "EDA")
+- [Conclusions & Recommendation](#Conclusions-&-Limitations "EDA")
 
-### Mission Statement
+### Introduction
 
 ---
 
@@ -29,7 +29,7 @@ version 1.0 (6.8.2020)
 
 ---
 
-### Data Information
+### EDA
 
 ---
 
